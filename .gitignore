@@ -1,0 +1,11 @@
+
+*.o
+*.a
+*.so
+*.dSYM/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+*.log
