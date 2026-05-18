@@ -103,10 +103,6 @@ This project is part of the 42 School curriculum, a project-based coding school 
 
 Created as part of 42 School curriculum.
 
-## Author
-
-**jiyan-0525**
-
 ## Contributing
 
 This is a personal school project. However, feedback and suggestions for improvements are welcome!
