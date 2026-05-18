@@ -24,44 +24,12 @@ libft/
 └── ...
 ```
 
-## Compilation
-
-### Build the library
-
-```bash
-make
-```
-
-### Clean build artifacts
-
-```bash
-make clean
-```
-
-### Remove all generated files
-
-```bash
-make fclean
-```
-
-### Rebuild everything
-
-```bash
-make re
-```
-
 ## Usage
 
 Include the header file in your project:
 
 ```c
 #include "libft.h"
-```
-
-Link against the compiled library:
-
-```bash
-gcc -o program program.c -L. -lft
 ```
 
 ## Key Functions
@@ -102,7 +70,6 @@ gcc -o program program.c -L. -lft
 ## Requirements
 
 - GCC or compatible C compiler
-- Make
 - Standard C library
 
 ## Installation
@@ -111,11 +78,6 @@ gcc -o program program.c -L. -lft
 ```bash
 git clone https://github.com/jiyan-0525/42Core_libft.git
 cd 42Core_libft
-```
-
-2. Build the library:
-```bash
-make
 ```
 
 3. Link it with your projects by including `libft.h` and using `-lft` during compilation.
@@ -150,5 +112,3 @@ Created as part of 42 School curriculum.
 This is a personal school project. However, feedback and suggestions for improvements are welcome!
 
 ---
-
-*Last Updated: 2026-05-18*
